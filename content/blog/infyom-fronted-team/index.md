@@ -7,4 +7,6 @@ thumbnail: screenshot-2021-03-03-at-6.33.15-pm.png
 ---
 **\- simple demo**
 
+![image](screenshot-2021-03-03-at-6.33.15-pm.png "image")
+
 **\- created by infyom**
